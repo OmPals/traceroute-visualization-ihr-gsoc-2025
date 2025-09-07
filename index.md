@@ -9,7 +9,7 @@ repoURL: "https://www.ihr.live/en/traceroute-monitor"
 
 1. (Live) Batch measurement result fetching api call into chunks using filters - [PR Link](https://github.com/InternetHealthReport/ihr-website/pull/986)
 2. (Live) RTT Chart and probes destinations table UI Improvements - [PR Link](https://github.com/InternetHealthReport/ihr-website/pull/1006)
-3. (In Review) Additional updates in traceroute UI - [PR Link](https://github.com/InternetHealthReport/ihr-website/pull/1010)
+3. (Live) Additional updates in traceroute UI - [PR Link](https://github.com/InternetHealthReport/ihr-website/pull/1010)
 4. (Live) (this PR was created before GSoC coding period, after eligible organizations announcement) Fix duplicate API calls - [PR Link](https://github.com/InternetHealthReport/ihr-website/pull/943)
 
 ## Project Link
@@ -253,3 +253,4 @@ For better analysis:
 4. Understading the purpose of this tool.
 5. Managing time.
 6. [Documenting](https://developers.google.com/tech-writing/overview)
+
